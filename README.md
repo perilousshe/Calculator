@@ -1,2 +1,2 @@
 # Calculator
-Calculator in C 
+Calculator in C language 
